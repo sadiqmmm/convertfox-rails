@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mohammed Sadiq"]
   spec.email         = ["sadiqmmm@gmail.com"]
 
-  spec.summary       = %q{This gem is under development don't use it}
+  spec.summary       = spec.description
   spec.description   = %q{This gem is under development don't use it}
-  spec.homepage      = "This gem is under development don't use it"
+  spec.homepage      = "https://github.com/sadiqmmm/convertfox-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
