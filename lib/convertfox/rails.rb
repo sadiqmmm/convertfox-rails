@@ -2,6 +2,6 @@ require "convertfox/rails/version"
 
 module Convertfox
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine; end
   end
 end
